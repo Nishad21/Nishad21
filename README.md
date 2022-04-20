@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nishad 
+- 👋 Hi, I’m @Nishad Fulpagare
 - 👀 I’m interested in Data Science.
 - 🌱 I’m currently learning Software engineering for data science from IIIT Hydrabad.
 - 💞️ I’m looking to collaborate on data science project.
